@@ -1,0 +1,5 @@
+*.obj
+Viewer/Debug
+Viewer/Release
+SDVersionReader/Debug
+SDVersionReader/Release
