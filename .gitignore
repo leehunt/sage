@@ -3,3 +3,6 @@ Viewer/Debug
 Viewer/Release
 SDVersionReader/Debug
 SDVersionReader/Release
+Debug/
+Release/
+.vs/
